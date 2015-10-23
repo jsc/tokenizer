@@ -1,0 +1,33 @@
+ J. Shane Culpepper's Homepage           J. Shane Culpepper    home contact research publications teaching            Overview 
+
+I am an ARC DECRA Research Fellow and Senior Lecturer at  RMIT University  in the  School of Computer Science & Information Technology . I run the  Algorithm Design Lab (ADL)  which is closely affiliated with the Information Storage and Retrieval (ISAR) Research Group ran by Professor Mark Sanderson, and the Big Data and Data Analytics (BDDA) Research Group ran by Professor Timos Sellis.
+
+		 Research 
+
+My current work focuses on how to design efficient algorithms and data structures for a wide variety of information storage and retrieval problems. Broadly speaking my research interests include information retrieval, text indexing, data compression, natural language processing, experimental algorithmics, and scalable distributed/parallel computing. See my  research overview  and  publications  pages for more information. 
+
+     Potential Students and Postdocs 
+
+If you are interested in the work we do and wish to pursue a research career,
+please read the information included on my  
+Phd and Postdoc recruiting page  to find out more about current 
+opportunites and selection criteria. 
+
+     Postgraduate Students  Tadele Tedla Damessie Xiaolu Lu Farhana Murtaza Choudhury Gaya Jayasinghe (completed PhD in 2014) Matthias Petri (completed PhD in 2013) Undergraduate/Minor Thesis Students  Joel Mackenzie Biography 
+
+            I completed a Ph.D. in Computer Science in 2008 under the venerable 
+		         Alistair Moffat .
+            I am a dual citizen of the U.S. and Australia and I currently 
+            reside in lovely 
+             Melbourne, Australia .
+            Before entering academia, I spent several years in various
+            technical roles in industry. 
+            For more details, refer to my 
+              curriculum vitae .
+
+          My Thesis Wordle  
+
+	Last Update: 25 April 2015
+  
+	© 2004-2014 J. Shane Culpepper
+
